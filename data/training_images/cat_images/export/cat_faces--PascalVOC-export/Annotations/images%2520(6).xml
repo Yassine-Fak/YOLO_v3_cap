@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>images%2520(6).jpg</filename>
+    <path>cat_faces--PascalVOC-export/Annotations/images%2520(6).jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>301</width>
+        <height>167</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Cat_Face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>7.187409551374819</xmin>
+        <ymin>38.623512874837026</ymin>
+        <xmax>62.29088277858177</xmax>
+        <ymax>95.23368236636244</ymax>
+    </bndbox>
+</object><object>
+    <name>Cat_Face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>74.9232995658466</xmin>
+        <ymin>7.487919654498044</ymin>
+        <xmax>130.02677279305357</xmax>
+        <ymax>56.91295224902216</ymax>
+    </bndbox>
+</object><object>
+    <name>Cat_Face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>128.06657018813314</xmin>
+        <ymin>23.164581975228163</ymin>
+        <xmax>192.53545586107091</xmax>
+        <ymax>80.64567715123859</ymax>
+    </bndbox>
+</object><object>
+    <name>Cat_Face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>186.4370477568741</xmin>
+        <ymin>51.034203878748365</ymin>
+        <xmax>253.5195369030391</xmax>
+        <ymax>113.95858458279008</ymax>
+    </bndbox>
+</object><object>
+    <name>Cat_Face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>243.28292329956585</xmin>
+        <ymin>21.42273060625815</ymin>
+        <xmax>286.18958031837917</xmax>
+        <ymax>68.67044898956975</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>images%2520(36).jpg</filename>
+    <path>cat_faces--PascalVOC-export/Annotations/images%2520(36).jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>275</width>
+        <height>183</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Cat_Face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>76.04303934487952</xmin>
+        <ymin>20.080316742081447</ymin>
+        <xmax>176.06186464608433</xmax>
+        <ymax>111.16628959276018</ymax>
+    </bndbox>
+</object>
+</annotation>

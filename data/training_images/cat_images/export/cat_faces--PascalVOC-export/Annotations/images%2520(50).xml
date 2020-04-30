@@ -1,0 +1,81 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>images%2520(50).jpg</filename>
+    <path>cat_faces--PascalVOC-export/Annotations/images%2520(50).jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>277</width>
+        <height>182</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Cat_Face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>93.23650092936803</xmin>
+        <ymin>18.323529411764707</ymin>
+        <xmax>123.71679832713755</xmax>
+        <ymax>46.32352941176471</ymax>
+    </bndbox>
+</object><object>
+    <name>Cat_Face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>182.2060176579926</xmin>
+        <ymin>9.676470588235293</ymin>
+        <xmax>203.00676115241637</xmax>
+        <ymax>39.73529411764706</ymax>
+    </bndbox>
+</object><object>
+    <name>Cat_Face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>233.89895446096656</xmin>
+        <ymin>13.588235294117647</ymin>
+        <xmax>264.3792518587361</xmax>
+        <ymax>41.38235294117647</ymax>
+    </bndbox>
+</object><object>
+    <name>Cat_Face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>104.76958643122677</xmin>
+        <ymin>99.6470588235294</ymin>
+        <xmax>135.04393587360596</xmax>
+        <ymax>129.5</ymax>
+    </bndbox>
+</object><object>
+    <name>Cat_Face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>53.694493494423796</xmin>
+        <ymin>96.97058823529407</ymin>
+        <xmax>79.43798791821561</xmax>
+        <ymax>127.02941176470584</ymax>
+    </bndbox>
+</object><object>
+    <name>Cat_Face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>224.6312964684015</xmin>
+        <ymin>101.5</ymin>
+        <xmax>266.4387314126394</xmax>
+        <ymax>150.2941176470588</ymax>
+    </bndbox>
+</object>
+</annotation>
