@@ -1,1 +1,0 @@
-# YOLO_v3_cap
