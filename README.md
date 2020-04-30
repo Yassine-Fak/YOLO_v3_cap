@@ -2,8 +2,6 @@
 
 ## Introduction:
 
----------
-
 Object detection is a kind of technology related to computer vision and images processing. 
 
 The goal of object detection is to detect and to localize all the instances of objects from kwon classes such as dogs, cars or faces in a given image or video.
@@ -15,8 +13,6 @@ For example, such detection may be as following:
 The human visual system is fast and accurate, allowing us to accomplish complex tasks, like flying and driving cars with few worries. Fast, accurate algorithms for object detection have a wide range of applications in a variety of areas: would allow computers and robots to manage real life problems like driving cars without specialized sensors, people counting, vehicle detection and even more, these techniques may be used in the manufacturing industry tasks, and now robots are learning complex tasks just by watching humans do them.
 
 ## Object Detection Algorithms for Neural Networks:
-
----------
 
 Object detection has always been an interesting problem in the field of deep learning. In the beginning, object detection algorithms were implemented using simple templates matching techniques. In nowadays, these techniques fall into either Machine Learning-based approaches or Deep Learning-based approaches. For Machine Learning approaches, we start by extracting the meaningful features of the given image. This step consists of detecting and isolating various portions or shapes of a given image using various approaches such as the Scale Invariant Feature Transform (SIFT) or the Histogram of Oriented Gradient (HOG) features. Then, we use a technique like the Support Vector Machine (SVM) to do the classification.  On the other hand, Deep Learning techniques, are able to do end -to-end object detection without specifically defining the features. This is actually done based on Convolutional neural Networks (CNN). 
 
@@ -52,8 +48,6 @@ Furthermore, in an object detection problem, choosing YOLO may be a good choice,
 Despite these advantages, YOLO has some limitations, for example: it struggles with small objects compared to its close competitors, because it imposes strong spatial constraints on bounding box predictions which limits the number of nearby objects that this model can predict. Finally, since this model learns to predict bounding boxes from data, it struggles to generalize to objects in new or unusual aspect ratio or configurations.
 
 ## Implementation:
-
-----------
 
 Since YOLO v1, YOLO v2 and YOLO v3 almost have the same architecture, and that YOLO v3 uses a few tricks to improve training and increase the performance, from now on, I am going to talk only about the implementation of YOLO v3. 
 
@@ -171,8 +165,6 @@ I strongly invite the reader to take a look to the corresponding notebook named 
 To conclude, I briefly introduced some object detection systems and mainly YOLO which is a unified model for object detection, simple to construct and according to [article](https://pjreddie.com/media/files/papers/yolo_1.pdf) it is so much fast to detect objects that when attached to a webcam it functions like a tracking system, detecting objects as they move around and change in appearance. Also, I mentioned the Microsoft Visual Object Tagging Tool as being a friendly user tool that can be used to label images and it allows to export the results in different formats.
 
 ## References:
-
---------------
 
  - https://heartbeat.fritz.ai/introduction-to-basic-object-detection-algorithms-b77295a95a63
  - https://github.com/zzh8829/yolov3-tf2
